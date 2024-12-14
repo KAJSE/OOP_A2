@@ -1,0 +1,7 @@
+IDNumber,Name,Age,Gender,Phone
+M456,Alice,25,Female,987-654-3210,M456,true
+M789,Bob,35,Male,345-678-9012,M789,false
+M101,Charlie,22,Male,564-789-0123,M101,true
+M102,Diana,30,Female,876-543-2109,M102,true
+M103,Eva,26,Female,654-321-0987,M103,false
+M104,Frank,28,Male,234-567-8901,M104,true
